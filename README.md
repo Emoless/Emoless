@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emoless&label=Profile%20views&color=0e75b6&style=flat" alt="emoless" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emoless" alt="emoless" /></a> </p>
-
 - 🌱 I’m currently learning **Golang & Frontend**
 
 - 📫 How to reach me **scodaret123@gmail.com**
